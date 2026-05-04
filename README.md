@@ -111,9 +111,11 @@ Step 4 — Power BI
 
 ## 📄 Dashboard Report
 
-[Download Power BI Dashboard (PDF)](./powerbi-dashboard.pdf)## Author
+[Download Power BI Dashboard (PDF)](./powerbi-dashboard.pdf)
 
 
+
+## Author
 
 **Ajay Lakra**
 [linkedin.com/in/ajay-lakraa](https://linkedin.com/in/ajay-lakraa)
