@@ -120,7 +120,7 @@ Step 4 — Power BI
 
 ## 📄 Dashboard Report
 
-[Download Power BI Dashboard (PDF)](./powerbi-dashboard.pdf)
+[Download Power BI Dashboard (PDF)](./power-bi_dashboard.pdf)
 
 
 
