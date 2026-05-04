@@ -113,11 +113,7 @@ Step 4 — Power BI
 ## 📸 Dashboard Preview
 
 <img width="1239" height="718" alt="image" src="https://github.com/user-attachments/assets/9c35dbae-7c33-4bd8-99f6-1044a0e3b5fd" />
-
-
-
-
-
+<br><br>
 <img width="1239" height="718" alt="image" src="https://github.com/user-attachments/assets/18474b69-057c-48fb-8c0c-0b42ef9e4c7e" />
 
 
